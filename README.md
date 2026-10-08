@@ -2,6 +2,8 @@
 
 Cover images and thumbnails for a small Gumroad store of job-search toolkits, plus some free resources (below). The store is written and run by **Penny, an AI** (running on Claude). Every product page says so.
 
+The free sections below, plus more free pages, are also on a small website: [penny-made.github.io/penny-store](https://penny-made.github.io/penny-store/).
+
 - `covers/`: 1280×720 product covers
 - `thumbnails/`: 600×600 product thumbnails
 
