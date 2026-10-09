@@ -22,6 +22,11 @@ There is no code here, and nothing in this repository is for sale. Issues and pu
 | `career-change-kit.png` | [Career Change Kit](https://ghillmann.gumroad.com/l/career-change-kit) |
 | `teacher-career-change-kit.png` | [Teacher Career Change Kit](https://ghillmann.gumroad.com/l/teacher-career-change-kit) |
 | `nurse-career-change-kit.png` | [Nurse Career Change Kit](https://ghillmann.gumroad.com/l/nurse-career-change-kit) |
+| `federal-to-private-sector-kit.png` | [Federal to Private Sector Career Kit](https://ghillmann.gumroad.com/l/federal-to-private-sector-kit) |
+| `30-day-job-search-plan.png` | [30-Day Job Search Plan](https://ghillmann.gumroad.com/l/30-day-job-search-plan) |
+| `career-change-workbook.png` | [Career Change Workbook](https://ghillmann.gumroad.com/l/career-change-workbook) |
+| `job-search-journal.png` | [Job Search Journal](https://ghillmann.gumroad.com/l/job-search-journal) |
+| `nhs-supporting-statement-kit.png` | [Supporting Statement Kit for NHS Job Applications](https://ghillmann.gumroad.com/l/nhs-supporting-statement-kit) |
 | `job-search-toolkit-bundle.png` | [Job Search Toolkit](https://ghillmann.gumroad.com/l/job-search-toolkit) (a bundle of six of the kits above) |
 
 ## Free resource: remote job sites that moved or closed, and the FTC's job-scam red flags
@@ -76,6 +81,70 @@ The first three points are about the 11 postings for utilization review, case ma
 - **Two outpatient postings said experience wasn't required.** An oncology clinic said two or more years as an RN was “preferred but not required”, and a recruiter's ad for a clinic said previous experience was “ideal but not required”. An infusion center asked for hands-on skills instead (strong IV and infusion skills, including experience with specialty biologics) and named no number of years.
 
 The [Nurse Career Change Kit](https://ghillmann.gumroad.com/l/nurse-career-change-kit) ($9) goes role by role through what the postings asked for, and adds 13 translations of bedside work into the words other roles use, resume summary examples, answers to “Why are you leaving the bedside?” and 7 AI prompts. It isn't medical, legal or licensing advice.
+
+## Free: where federal experience counted in 17 job postings (checked Oct 7, 2026)
+
+On Oct 7, 2026, I read 17 open job postings in roles that match common federal work (program management, contracts, grants, compliance, budget, HR, research) at government contractors, regulated companies and nonprofits. I went looking for postings that name government work, so this shows where federal experience counts, not private-sector hiring in general. The full list, with each posting's own words, is in the [Federal to Private Sector Career Kit](https://ghillmann.gumroad.com/l/federal-to-private-sector-kit).
+
+- **14 of the 17 named government work** in a required, preferred or desired line: a federal agency, the word "government" or "Federal", rules such as the FAR or OMB Uniform Guidance, federal grants, or government contracting. Two more, both at one fintech company, pointed at regulators without naming government: one asked for experience with regulatory examinations, the other listed a regulatory background as one of several that would fit. One, a part-time research role, didn't mention government.
+- **Security checks were common in the contractor postings; an active clearance was rare.** 7 of the 9 postings at government contractors and government technology firms mentioned a government background check, a clearance, a Public Trust determination or citizenship. Only one required an active clearance ("Active Top Secret clearance with SCI Eligibility"). The others asked for the ability to obtain one, said some roles may require one, or said the hire may be subject to a check.
+
+This isn't benefits, retirement or legal advice. For retirement, the Thrift Savings Plan, health insurance, severance or RIF rights, start with your agency's HR office; for your clearance status, your former agency's security office; for post-government employment rules, your agency's ethics official.
+
+## Free: a job application tracker you can paste into Google Sheets or Excel
+
+Copy this line and paste it into the first cell of a new spreadsheet:
+
+```
+Date found,Company,Job title,Link,Where I found it,Status,Date applied,Contact name,Contact email,Follow-up due,Last action,Next step,Notes
+```
+
+- **Google Sheets:** if the whole line lands in one cell, select that cell, then choose **Data**, then **Split text to columns**.
+- **Excel:** select the cell, then **Data**, then **Text to Columns**, choose **Delimited**, tick **Comma** only (not Space, since some headings have spaces) and finish.
+
+Use one status per row and change it as things happen: **Saved**, **Applied**, **Followed up**, **Screen**, **Interview**, **Offer**, **Closed** (write why in Notes). The tracker holds other people's names and emails, so keep it in your own account.
+
+The [30-Day Job Search Plan](https://ghillmann.gumroad.com/l/30-day-job-search-plan) ($7) builds on this tracker: day-by-day steps for the first ten days, then a daily routine with a new focus each week, follow-up spacings, a 10-minute weekly review and 5 AI prompts.
+
+## Free: before a career change, sort what you want to leave
+
+Write down everything you'd change about your work right now, then put one tag next to each line:
+
+- **J (the job):** the tasks themselves. They'd follow you to the same role at another employer.
+- **E (the employer):** this manager, team, culture, pay policy, schedule rules or location. Another employer could be different.
+- **F (the field):** the work or the industry as a whole, wherever you'd do it.
+- **L (life):** things outside work that the job collides with, such as health, caring for someone or a move.
+
+Rules of thumb (not facts about careers):
+
+- **Mostly E:** a new employer in the same field may fix most of it. That's often the faster, lower-risk move, because you don't have to retrain.
+- **Mostly J:** look at roles next to yours in the same field, with a different job title that uses what you already know.
+- **Mostly F:** a career change is likely the real answer.
+
+The [Career Change Workbook](https://ghillmann.gumroad.com/l/career-change-workbook) ($7) continues from here: what to keep, six work values and your must-haves, finding options, checking them in the Bureau of Labor Statistics' Occupational Outlook Handbook, small experiments, a decision check and 5 AI prompts.
+
+## Free: five questions for a 5-minute job search journal entry
+
+On any day you work on your search, answer these five in any notebook, doc or notes app. One line each is enough.
+
+1. **What did I do for my search today?** Applications, messages, prep, research: whatever you actually did.
+2. **What did I learn?** About a company, a role, the job market, or how you work.
+3. **What went well?** One thing, however small.
+4. **What's my first step tomorrow?** Make it small and specific enough to start without deciding anything.
+5. **Energy today, 1-5 (1 = drained, 5 = plenty):** a quick note to yourself. After a few weeks, these numbers may show which days or tasks wear you out, so you can plan the hardest tasks for your better days.
+
+The [Job Search Journal](https://ghillmann.gumroad.com/l/job-search-journal) ($5) adds prompts for after an interview, a rejection or a recruiter call, a weekly wins page, a page for low days and 3 AI prompts.
+
+## Free: a four-line format for each criterion in an NHS supporting statement
+
+Several NHS employers' application pages say supporting information is scored against the person specification, so each criterion needs a real example, not a claim. For each criterion, write four short lines in your notes (the example lines are made up):
+
+1. **Where:** the setting, in a few words. "Weekend job at a busy garden centre till."
+2. **What was needed:** the task or problem. "Queues built up on Saturdays and customers got frustrated."
+3. **What I did:** most of your words go here. Say "I", not "we": the panel is scoring you. "I suggested opening the second till at 10am, trained two new starters on it and kept a sheet of the busiest times."
+4. **What happened:** the result. Use a number only if you know it's true. "The manager kept the 10am rota for the rest of the season."
+
+The [Supporting Statement Kit for NHS Job Applications](https://ghillmann.gumroad.com/l/nhs-supporting-statement-kit) ($9) adds a person specification checklist, a structure for each form layout, made-up weak and stronger examples, a values page, 6 AI prompts (none of them writes your statement for you) and a final check. It isn't affiliated with the NHS.
 
 ---
 
